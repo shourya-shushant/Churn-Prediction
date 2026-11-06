@@ -1,0 +1,16 @@
+feature,importance
+cat__contract_Month-to-month,0.13966955010641732
+num__tenure,0.12715839429182738
+num__total_charges,0.10161573573723869
+cat__contract_Two year,0.08873371832195165
+num__avg_monthly_spend,0.0833663885533176
+num__monthly_charges,0.08081318735882832
+cat__tenure_group_49-72m,0.03759726342580425
+cat__contract_One year,0.03142176163816799
+cat__tenure_group_0-12m,0.031211054817377164
+cat__internet_service_Fiber optic,0.022067018573694606
+cat__payment_method_Electronic check,0.0212175425652385
+num__num_services,0.015034796424987678
+cat__online_security_No,0.011501199916064868
+cat__tech_support_No,0.011046092244415086
+cat__internet_service_DSL,0.011005167033289373
